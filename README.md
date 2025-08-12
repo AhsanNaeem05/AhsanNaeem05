@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Ahsan Naeem
 
-<!--
-**AhsanNaeem05/AhsanNaeem05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Quality Assurance Enthusiast**  
+💻 Skilled in **Selenium, Test Automation, SQL**  
+🚀 Passionate about **quality, efficiency, and continuous learning**  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming:** C++, OOP, Data Structures & Algorithms  
+- **Web:** HTML, CSS, JavaScript  
+- **Database:** SQL, Database Management  
+- **Testing:** Selenium WebDriver, TestNG, Automation Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:**  
+[LinkedIn](https://www.linkedin.com/in/ahsan-naeem-941273286) | **Email:** an1821520@gmail.com
